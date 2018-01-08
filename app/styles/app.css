@@ -1,0 +1,26 @@
+.page-title {
+    color: black;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.top-bar{
+  background-color: #ff9933;
+}
+
+ul.menu{
+  background-color: #ff9933;
+}
+
+ul.menu .li{
+  color: white;
+}
+
+li.menu-text {
+  color: black;
+}
+
+
+input[type=search] {
+    box-shadow: none;
+}
